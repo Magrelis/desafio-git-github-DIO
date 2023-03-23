@@ -1,5 +1,5 @@
-# desafio-git-github-DIO
-Esse é o meu primeiro repositório criado usando os conhecimentos do curso da DIO
+ Desafio-git-github-DIO
+repositório criado para os desafios de projeto da DIO
 
 ## links uteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/getting-started/)
